@@ -1,50 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+?xml version="1.0" encoding="utf-8"?>
 <resources>
-    	
-	<string-array name="languages_input">
-        <item>Arabic</item>       
-        <item>Chinese</item>
-        <item>English</item>
-        <item>French</item>
-        <item>German</item>
-        <item>Italian</item>
-        <item>Japanese</item>
-        <item>Korean</item>
-        <item>Russian</item>
-        <item>Spanish</item>
-	</string-array>
-	
-	<string-array name="languages_output">
-	    <item>English</item>
-	    <item>French</item>
-	    <item>German</item>
-	    <item>Italian</item>
-	    <item>Spanish</item>
-	    <item>Tamil</item>
-	    <item>Hindi</item>
-	</string-array>
-	
-	<string-array name="input_language_code">
-        <item>ar</item>       
-        <item>zh</item>
-        <item>en</item>
-        <item>fr</item>
-        <item>de</item>
-        <item>it</item>
-        <item>ja</item>
-        <item>ko</item>
-        <item>ru</item>
-        <item>es</item>
-	</string-array>
-	
-	<string-array name="output_language_code">
-	    <item>en</item>
-	    <item>fr</item>
-	    <item>de</item>
-	    <item>it</item>
-	    <item>sp</item>
-	    <item>en</item>
-	    <item>en</item>
-	</string-array>
-	
+<string-array name="languages_input"><item>Arabic</item><item>Chinese</item><item>English</item><item>French</item><item>German</item><item>Italian</item><item>Japanese</item><item>Korean</item><item>Russian</item><item>Spanish</item></string-array>
+<string-array name="languages_output"><item>English</item><item>Malayalam</item><item>Telugu</item><item>Marathi</item><item>Gujarati</item><item>Bengali</item><item>Urdu</item></string-array>
+<string-array name="input_language_code"><item>ar</item><item>zh</item><item>en</item><item>fr</item><item>de</item><item>it</item><item>ja</item><item>ko</item><item>ru</item><item>es</item></string-array>
+<string-array name="output_language_code"><item>ml</item><item>te</item><item>de</item><item>mr</item><item>gu</item><item>bn</item><item>ur</item></string-array>
 </resources>
